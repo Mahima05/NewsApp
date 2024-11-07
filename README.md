@@ -23,19 +23,22 @@ A Flutter-based news app inspired by Inshorts, enabling users to read and swipe 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Mahima05/NewsApp.git
-   cd inshorts-clone
+   ```
+   Extract the zip file named news_app_2, then
+   ```bash
+   cd news_app_2
    ```
 
-2. **Install dependencies**:
+3. **Install dependencies**:
    ```bash
    flutter pub get
    ```
 
-3. **Get a GNews API key**:
+4. **Get a GNews API key**:
    - Register on [GNews](https://gnews.io/) to get your API key.
    - Replace the API key in `news_screen.dart`.
 
-4. **Run the app**:
+5. **Run the app**:
    ```bash
    flutter run
    ```
