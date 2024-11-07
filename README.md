@@ -22,7 +22,7 @@ A Flutter-based news app inspired by Inshorts, enabling users to read and swipe 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/inshorts-clone.git
+   git clone https://github.com/Mahima05/NewsApp.git
    cd inshorts-clone
    ```
 
